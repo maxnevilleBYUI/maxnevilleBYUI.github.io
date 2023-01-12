@@ -10,10 +10,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Test test</h1>
+    <h1>Test test agagaggaga </h1>
 </body>
 </html>
-
-html{
-    background-color:gray
-}
