@@ -13,3 +13,7 @@
     <h1>Test test</h1>
 </body>
 </html>
+
+html{
+    background-color:gray
+}
