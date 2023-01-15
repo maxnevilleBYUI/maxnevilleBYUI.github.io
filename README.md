@@ -1,4 +1,3 @@
-# maxnevilleBYUI.github.io
 <!DOCTYPE html>
 <html lang="en-us">
 
@@ -10,7 +9,7 @@
 
 <body>
   <header>
-    <h1>[Site name] Site Plan</h1>
+    <h1>Ronny's Rafting Site Plan</h1>
     <h2>Max Neville</h2>
     <h2>WDD 130-[section]</h2>
     <!-- In the header above, add the name of your site, your name and class number. For example if you are in section 3 you would put WDD 130-03 -->
@@ -67,11 +66,11 @@
     <!-- Choose a font for your paragraphs (body copy) and headlines. What font(s) have you chosen? Think also about which of your colors above you might use for background and font colors. -->
 
     <h4>
-      Heading Font: [Font Name here]
+      Heading Font: Merriweather
       <!-- change this -->
     </h4>
     <h4>
-      Paragraph Font: [Font Name here]
+      Paragraph Font: Roboto Slab
       <!-- change this -->
     </h4>
     <h3>Normal paragraph example</h3>
