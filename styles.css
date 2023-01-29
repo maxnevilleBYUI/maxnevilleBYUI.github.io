@@ -3,26 +3,21 @@
     margin: 0 auto;
 }
 
-nav a{
-    text-align: center;
-}
-
-#hero-msg h1 {
-    text-align: center;
-}
-
-#hero-msg h4 S{
-    text-align: center;
-}
-
-.button-box {
-    text-align: center;
-}
-
-main section {
-    text-align: center;
+#centered{
+    text-align: center;   
 }
 
 #background {
     height: 725px;
 }
+
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
+
